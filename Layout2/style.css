@@ -1,0 +1,16 @@
+.number-square {
+    width: 65%;
+    height: 15%;
+    background-color: white;
+    display: flex;
+    justify-content: left;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+
+.orange {
+    background-color: Orange;
+}
+
+
