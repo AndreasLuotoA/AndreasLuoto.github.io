@@ -1,4 +1,4 @@
-function findAlbums() {
+function getAlbums() {
     let url = "https://itunes.apple.com/lookup/?id=1472380750&entity=album";
     $.get(url, function(data, status){
         if (status != "success") {
